@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "3KLSC-VICCALDERON-P4-PYTHON", "3KLSC-VICCALDERON-P4-PYTHON\3KLSC-VICCALDERON-P4-PYTHON.pyproj", "{CCA0CCE1-142A-457C-A8FB-90B5A18E934A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA0CCE1-142A-457C-A8FB-90B5A18E934A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA0CCE1-142A-457C-A8FB-90B5A18E934A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF68079E-6047-4BCE-ACFB-542E2EDB30FC}
+	EndGlobalSection
+EndGlobal
